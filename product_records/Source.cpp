@@ -2,7 +2,7 @@
 #include <vector>
 #include <format>
 #include <cctype>
-#include <iomanip>
+
 using namespace std;
 
 int main() {
